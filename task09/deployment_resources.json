@@ -14,7 +14,12 @@
             "dynamodb:DeleteItem",
             "ssm:PutParameter",
             "ssm:GetParameter",
-            "kms:Decrypt"
+            "kms:Decrypt",
+            "xray:PutTraceSegments",
+            "xray:PutTelemetryRecords",
+            "xray:GetSamplingRules",
+            "xray:GetSamplingTargets",
+            "xray:GetSamplingStatisticSummaries"
           ],
           "Effect": "Allow",
           "Resource": "*"
@@ -25,11 +30,20 @@
     "resource_type": "iam_policy"
   },
   "processor-role": {
-    "predefined_policies": [],
+    "predefined_policies": ["AWSXRayDaemonWriteAccess"],
     "principal_service": "lambda",
     "custom_policies": [
       "lambda-basic-execution"
     ],
     "resource_type": "iam_role"
+  },
+  "Weather": {
+    "resource_type": "dynamodb_table",
+    "hash_key_name": "id",
+    "hash_key_type": "S",
+    "read_capacity": 1,
+    "write_capacity": 1,
+    "global_indexes": [],
+    "autoscaling": []
   }
 }
