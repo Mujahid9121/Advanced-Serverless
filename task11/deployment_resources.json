@@ -71,11 +71,9 @@
     "username_attributes": [
       "email"
     ],
-    "custom_attributes": [
-
-    ],
+    "custom_attributes": [],
     "client": {
-      "client_name" : "api_client_syndicate"
+      "client_name": "api_client_syndicate"
     }
   },
   "Tables": {
@@ -128,5 +126,4 @@
       "error_document": "error.html"
     }
   }
-
 }
