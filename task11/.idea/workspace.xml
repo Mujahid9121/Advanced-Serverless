@@ -5,20 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2db3296a-b419-4227-888e-366709287986" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/export/t7fnsyc117_oas_v3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsrc/main/java/com/task11/ApiHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/jsrc/main/java/com/task11/ApiHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/export/spec.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/swagger_src/task11_api_ui/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/swagger_src/task11_api_ui/swagger_ui_config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/task11/ApiHandler$APIRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/task11/ApiHandler$APIRequest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/task11/ApiHandler$Reservation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/task11/ApiHandler$Reservation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/task11/ApiHandler$ReservationResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/task11/ApiHandler$ReservationResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/task11/ApiHandler$Table.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/task11/ApiHandler$Table.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/task11/ApiHandler$TableResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/task11/ApiHandler$TableResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/task11/ApiHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/task11/ApiHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/original-task11-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-task11-1.0.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/task11-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/task11-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/task11/ApiHandler$APIRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/task11/ApiHandler$Reservation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/task11/ApiHandler$ReservationResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/task11/ApiHandler$Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/task11/ApiHandler$TableResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/task11/ApiHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/deployment_resources.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-task11-1.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/task11-1.0.0.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,14 +39,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;task11&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mohammed_mujahid/Desktop/AWSAllTasks/AWStask11/task11&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "task11",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/mohammed_mujahid/Desktop/AWSAllTasks/AWStask11/task11"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
